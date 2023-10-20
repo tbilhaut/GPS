@@ -1,0 +1,618 @@
+Time: 084548
+Latitude: 50.679 degrees
+Longitude: 1.9266 degrees
+Time: 084548
+Latitude: 50.4869 degrees
+Longitude: 1.88624 degrees
+Time: 084548
+Latitude: 5025.73 degrees
+Longitude: 154.281 degrees
+Time: 084548
+Latitude: 5025.73 degrees
+Longitude: 154.281 degrees
+Time: 084548
+Latitude: 5051.71 degrees
+Longitude: 157.479 degrees
+Time: 084548
+Latitude: 5032.67 degrees
+Longitude: 154.024 degrees
+Time: 084548
+Latitude: 5043.52 degrees
+Longitude: 156.604 degrees
+Time: 084548
+Latitude: 5054.14 degrees
+Longitude: 160.047 degrees
+Time: 084548
+Latitude: 5039.3 degrees
+Longitude: 156.148 degrees
+Time: 084548
+Latitude: 5054.14 degrees
+Longitude: 160.047 degrees
+Time: 084548
+Latitude: 5029.21 degrees
+Longitude: 153.174 degrees
+Time: 084548
+Latitude: 5030.79 degrees
+Longitude: 153.569 degrees
+Time: 084548
+Latitude: 5041.98 degrees
+Longitude: 156.106 degrees
+Time: 084548
+Latitude: 5045.26 degrees
+Longitude: 156.913 degrees
+Time: 084548
+Latitude: 5038.35 degrees
+Longitude: 157.5 degrees
+Time: 084548
+Latitude: 5036.83 degrees
+Longitude: 159.199 degrees
+Time: 084548
+Latitude: 5030.79 degrees
+Longitude: 153.569 degrees
+Time: 084548
+Latitude: 5048.69 degrees
+Longitude: 157.405 degrees
+Time: 084548
+Latitude: 5030.79 degrees
+Longitude: 153.569 degrees
+Time: 084548
+Latitude: 5045.26 degrees
+Longitude: 156.913 degrees
+Time: 084548
+Latitude: 5030.79 degrees
+Longitude: 153.569 degrees
+Time: 084548
+Latitude: 5036.44 degrees
+Longitude: 155.174 degrees
+Time: N
+Latitude: 159.199 degrees
+Longitude: 108 degrees
+Time: N
+Latitude: 157.5 degrees
+Longitude: 108 degrees
+Time: N
+Latitude: 156.148 degrees
+Longitude: 108 degrees
+Time: N
+Latitude: 155.596 degrees
+Longitude: 108 degrees
+Time: N
+Latitude: 156.106 degrees
+Longitude: 108 degrees
+Time: N
+Latitude: 157.405 degrees
+Longitude: 108 degrees
+Time: N
+Latitude: 157.54 degrees
+Longitude: 108 degrees
+Time: 084548
+Latitude: 5053.52 degrees
+Longitude: 158.111 degrees
+Time: N
+Latitude: 160.047 degrees
+Longitude: 108 degrees
+Time: 084548
+Latitude: 5053.52 degrees
+Longitude: 158.111 degrees
+Time: N
+Latitude: 157.837 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 160.397 degrees
+Longitude: 1.08 degrees
+Time: E
+Latitude: 1.08 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 156.65 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 154.281 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 153.2 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 153.174 degrees
+Longitude: 1.08 degrees
+Time: 084548
+Latitude: 5032.67 degrees
+Longitude: 154.024 degrees
+Time: N
+Latitude: 154.479 degrees
+Longitude: 1.08 degrees
+Time: 084548
+Latitude: 5032.67 degrees
+Longitude: 154.024 degrees
+Time: N
+Latitude: 154.479 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 155.174 degrees
+Longitude: 1.08 degrees
+Time: E
+Latitude: 1.08 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 157.5 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 156.148 degrees
+Longitude: 1.08 degrees
+Time: E
+Latitude: 1.08 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 156.106 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 156.604 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 156.913 degrees
+Longitude: 1.08 degrees
+Time: 084548
+Latitude: 5053.52 degrees
+Longitude: 158.111 degrees
+Time: N
+Latitude: 157.837 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 160.397 degrees
+Longitude: 1.08 degrees
+Time: E
+Latitude: 1.08 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 156.65 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 154.281 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 153.2 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 153.174 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 153.569 degrees
+Longitude: 1.08 degrees
+Time: 084548
+Latitude: 5053.52 degrees
+Longitude: 158.111 degrees
+Time: N
+Latitude: 160.047 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.837 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 160.397 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 158.702 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.65 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 154.281 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 153.2 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 153.174 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 153.569 degrees
+Longitude: 1 degrees
+Time: 084548
+Latitude: 5041.98 degrees
+Longitude: 156.106 degrees
+Time: N
+Latitude: 158.702 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.65 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 154.281 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 153.2 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 153.174 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 153.569 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 154.024 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 154.479 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 155.174 degrees
+Longitude: 1 degrees
+Time: 5023.6108
+Latitude: 5023.61 degrees
+Longitude: 158.702 degrees
+Time: 00156.6503
+Latitude: 156.65 degrees
+Longitude: 1 degrees
+Time: 00153.1998
+Latitude: 153.2 degrees
+Longitude: 1 degrees
+Time: 00153.1742
+Latitude: 153.174 degrees
+Longitude: 1 degrees
+Time: 00153.5688
+Latitude: 153.569 degrees
+Longitude: 1 degrees
+Time: 00154.0238
+Latitude: 154.024 degrees
+Longitude: 1 degrees
+Time: 00155.1739
+Latitude: 155.174 degrees
+Longitude: 1 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00157.5001
+Latitude: 157.5 degrees
+Longitude: 1 degrees
+Time: 00156.1482
+Latitude: 156.148 degrees
+Longitude: 1 degrees
+Time: 5053.5210
+Latitude: 5053.52 degrees
+Longitude: 158.111 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00157.8373
+Latitude: 157.837 degrees
+Longitude: 1 degrees
+Time: 00160.3967
+Latitude: 160.397 degrees
+Longitude: 1 degrees
+Time: 00158.7015
+Latitude: 158.702 degrees
+Longitude: 1 degrees
+Time: 00156.6503
+Latitude: 156.65 degrees
+Longitude: 1 degrees
+Time: 00154.2812
+Latitude: 154.281 degrees
+Longitude: 1 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00153.1742
+Latitude: 153.174 degrees
+Longitude: 1 degrees
+Time: 00153.5688
+Latitude: 153.569 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.148 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.106 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.604 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.913 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.21 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.405 degrees
+Longitude: 1 degrees
+Time: E
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 157.479 degrees
+Longitude: 1 degrees
+Time: E
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 160.047 degrees
+Longitude: 1 degrees
+Time: E
+Latitude: 1.08 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 157.54 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 158.111 degrees
+Longitude: 1.08 degrees
+Time: E
+Latitude: 1.08 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 157.837 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 160.397 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 158.702 degrees
+Longitude: 1.08 degrees
+Time: N
+Latitude: 156.65 degrees
+Longitude: 1.08 degrees
+Time: 084548
+Latitude: 5047.19 degrees
+Longitude: 157.21 degrees
+Time: E
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 157.21 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.405 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.54 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.479 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 158.111 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 160.047 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 160.397 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 158.702 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.65 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 154.281 degrees
+Longitude: 1 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00156.9130
+Latitude: 156.913 degrees
+Longitude: 1 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00157.4046
+Latitude: 157.405 degrees
+Longitude: 1 degrees
+Time: 00157.5400
+Latitude: 157.54 degrees
+Longitude: 1 degrees
+Time: 00157.4794
+Latitude: 157.479 degrees
+Longitude: 1 degrees
+Time: 00158.1106
+Latitude: 158.111 degrees
+Longitude: 1 degrees
+Time: 00160.0467
+Latitude: 160.047 degrees
+Longitude: 1 degrees
+Time: 00160.3967
+Latitude: 160.397 degrees
+Longitude: 1 degrees
+Time: 5025.1860
+Latitude: 5025.19 degrees
+Longitude: 156.65 degrees
+Time: 5029.2129
+Latitude: 5029.21 degrees
+Longitude: 153.174 degrees
+Time: 00154.4787
+Latitude: 154.479 degrees
+Longitude: 1 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00157.5001
+Latitude: 157.5 degrees
+Longitude: 1 degrees
+Time: 00156.1482
+Latitude: 156.148 degrees
+Longitude: 1 degrees
+Time: 00155.5962
+Latitude: 155.596 degrees
+Longitude: 1 degrees
+Time: 00156.1059
+Latitude: 156.106 degrees
+Longitude: 1 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00157.4046
+Latitude: 157.405 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.21 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.405 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.54 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.479 degrees
+Longitude: 1 degrees
+Time: E
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: E
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: N
+Latitude: 156.65 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 153.569 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 154.024 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 154.479 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 159.199 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.5 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 155.596 degrees
+Longitude: 1 degrees
+Time: E
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00153.1742
+Latitude: 153.174 degrees
+Longitude: 1 degrees
+Time: 00153.5688
+Latitude: 153.569 degrees
+Longitude: 1 degrees
+Time: 00154.4787
+Latitude: 154.479 degrees
+Longitude: 1 degrees
+Time: 00155.1739
+Latitude: 155.174 degrees
+Longitude: 1 degrees
+Time: 00159.1992
+Latitude: 159.199 degrees
+Longitude: 1 degrees
+Time: 5054.1421
+Latitude: 5054.14 degrees
+Longitude: 160.047 degrees
+Time: 00157.8373
+Latitude: 157.837 degrees
+Longitude: 1 degrees
+Time: 00160.3967
+Latitude: 160.397 degrees
+Longitude: 1 degrees
+Time: E
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 084548
+Latitude: 5029.21 degrees
+Longitude: 153.174 degrees
+Time: N
+Latitude: 153.569 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 154.479 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 155.174 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 159.199 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 155.596 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.106 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.604 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.913 degrees
+Longitude: 1 degrees
+Time: 1
+Latitude: 1 degrees
+Longitude: 0.9 degrees
+Time: 00158.7015
+Latitude: 158.702 degrees
+Longitude: 1 degrees
+Time: 00154.2812
+Latitude: 154.281 degrees
+Longitude: 1 degrees
+Time: 084548
+Latitude: 5027.33 degrees
+Longitude: 153.2 degrees
+Time: 084548
+Latitude: 5029.21 degrees
+Longitude: 153.174 degrees
+Time: N
+Latitude: 154.024 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 155.174 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 159.199 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.5 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.148 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 156.604 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.21 degrees
+Longitude: 1 degrees
+Time: N
+Latitude: 157.54 degrees
+Longitude: 1 degrees
+Time: 084548
+Latitude: 50.3752 degrees
+Longitude: 2.00661 degrees
+Time: 084548
+Latitude: 50.4289 degrees
+Longitude: 1.90469 degrees
+Time: 084548
+Latitude: 50.4869 degrees
+Longitude: 1.88624 degrees
+Time: N
+Latitude: 1.98665 degrees
+Longitude: 0.0166667 degrees
+Time: N
+Latitude: 1.9358 degrees
+Longitude: 0.0166667 degrees
+Time: N
+Latitude: 1.94339 degrees
+Longitude: 0.0166667 degrees
+Time: N
+Latitude: 1.94855 degrees
+Longitude: 0.0166667 degrees
+Time: E
+Latitude: 0.0166667 degrees
+Longitude: 0.015 degrees
+Time: N
+Latitude: 1.959 degrees
+Longitude: 0.0166667 degrees
+Time: N
+Latitude: 1.95799 degrees
+Longitude: 0.0166667 degrees
